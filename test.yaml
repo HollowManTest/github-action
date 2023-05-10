@@ -5,6 +5,7 @@ metadata:
   namespace: YOUR_NAMESPACE
   ownerReferences: YOUR_VALUE
   labels: YOUR_VALUE
+  labels: YOUR_VALUE
 spec:
   containers:
   - name: nginx_container
