@@ -3,6 +3,7 @@ kind: Pod
 metadata:
   name: test
   namespace: YOUR_NAMESPACE
+  ownerReferences: YOUR_VALUE
 spec:
   containers:
   - name: nginx_container
